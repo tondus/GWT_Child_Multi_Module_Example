@@ -1,0 +1,2 @@
+serviceClass: org.fao.aoscs.child.client.GreetingService
+path: 43BE0E5235BE65BF28FECC8BCEC0B47B.gwt.rpc
